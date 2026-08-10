@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://escapethebeaver.wiki
+Sitemap: https://escapethebeaver.wiki/sitemap.xml
